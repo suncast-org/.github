@@ -1,5 +1,11 @@
 # 🌞 SUNCAST — Software UNified Collaboration for Advancing Solar Tomography
 
+### 🌐 SUNCAST Community Website
+
+👉 Visit the SUNCAST governance & community portal:  
+https://suncast-org.github.io/
+
+
 Welcome to **SUNCAST**, an open-science initiative dedicated to developing a modern, sustainable, and community-driven software ecosystem for advancing 3D studies of the solar corona. SUNCAST supports research that combines ground-based and space-based remote-sensing observations with physics-based forward modeling, spectral fitting, and data-constrained tomography.
 
 The SUNCAST GitHub organization hosts interoperable, cloud-ready scientific tools — including **pyGSFIT**, **pyAMPP**, and **pyGSK** — along with reproducible workflows, documentation, training materials, and community-driven development resources.
