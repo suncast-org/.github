@@ -1,6 +1,14 @@
-## SUNCAST
-The Software UNified Collaboration for Advancing Solar Tomography (SUNCAST) project aims to create a comprehensive, open-source software framework for advancing our understanding of the 3D structure of the solar corona. The framework will combine ground-based and space-based remote-sensing multi-wavelength observations with sophisticated forward-fitting algorithms and 3D modeling. The project will establish a centralized platform to access and share high-quality data, algorithms, and tools for data analysis and data-constrained modeling.  The SUNCAST repository will be developed using modern software engineering practices that will ensure its long-term sustainability and accessibility. SUNCAST will leverage available world-widely used software resources developed over the last decade by the team members and collaborators with support from the AST, AGS, and EarthCube NSF Programs. The project will upgrade  this state-of-the-art software, to prepare it for scaling to a cloud-based, high performance, parallel computing architecture. By doing so, we will pave the way for its wider use and faster results, which will increase research efficiency.
+# 🌞 SUNCAST — Software UNified Collaboration for Advancing Solar Tomography
 
+Welcome to **SUNCAST**, an open-science initiative dedicated to developing a modern, sustainable, and community-driven software ecosystem for advancing 3D studies of the solar corona. SUNCAST supports research that combines ground-based and space-based remote-sensing observations with physics-based forward modeling, spectral fitting, and data-constrained tomography.
+
+The SUNCAST GitHub organization hosts interoperable, cloud-ready scientific tools (including **pyGSFIT**, **pyAMPP**, and **pyGSK**) along with reproducible workflows, examples, documentation, and community training resources.
+
+We are committed to open-source development guided by **FAIR**, **CARE**, and **TRUST** principles, ensuring transparency, reproducibility, equity, and sustainability.
+
+A formal Governance Board (in formation) will oversee the long-term stewardship of SUNCAST software and guide community contributions.
+
+For details on how to contribute, see **[GOVERNANCE.md](./GOVERNANCE.md)**.
 <!--
 
 **Here are some ideas to get you started:**
